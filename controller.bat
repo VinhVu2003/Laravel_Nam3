@@ -1,0 +1,12 @@
+php artisan make:controller chitiethoadonnhapsController --model=chitiethoadonnhaps --resource
+php artisan make:controller chitiethoadonsController --model=chitiethoadons --resource
+php artisan make:controller chuyenmucsController --model=chuyenmucs --resource
+php artisan make:controller hoadonnhapsController --model=hoadonnhaps --resource
+php artisan make:controller hoadonsController --model=hoadons --resource
+php artisan make:controller khachhangController --model=khachhang --resource
+php artisan make:controller loaitaikhoanController --model=loaitaikhoan --resource
+php artisan make:controller nhaphanphoisController --model=nhaphanphois --resource
+php artisan make:controller sanphamsController --model=sanphams --resource
+php artisan make:controller sanphams_nhaphanphoisController --model=sanphams_nhaphanphois --resource
+php artisan make:controller sizeController --model=size --resource
+php artisan make:controller taikhoanController --model=taikhoan --resource
